@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web project
 - 🌱 I’m currently learning Backend developer
 - 💞️ I’m looking to collaborate on Algorithm
-- 📫 How to reach me instaID sonusharma0fficial
+- 📫 How to reach me linkedinID linkedin.com/in/sonu-sharma-8269342b9
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
